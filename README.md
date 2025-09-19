@@ -28,6 +28,9 @@ In traditional programming, functions must be explicitly called by the programme
 
 ### PROGRAM:
 ```
+Developed By: S Junaid Sardar 
+Register Number: 212224100028
+
 from openai import OpenAI
 import math, json
 
@@ -124,7 +127,7 @@ else:
 
 ```
 ### OUTPUT:
-![alt text](<Screenshot 2025-09-19 110640.png>)
+![alt text](<Screenshot 2025-09-19 112145.png>)
 
 ### RESULT:
 The Python program successfully calculates the area of different shapes using natural language queries. The LLM identifies the correct function to call and supplies the parameters.
